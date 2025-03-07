@@ -8,11 +8,14 @@ Predictive Analytics: Forecasts potential disease outbreaks using historical and
 Actionable Insights: Offers tailored treatment suggestions and preventive measures based on diagnosis and risk assessment.
 Crop Suggestion: Recommends the best crops for specific environmental conditions (e.g., rainfall, temperature, humidity, soil composition) to maximize yield and disease resistance.
 Web-Based Interface: User-friendly platform for uploading images, viewing disease reports, and receiving recommendations.
+
 Technologies Used
+
 Backend: Flask (web framework)
 Frontend: HTML, CSS, JavaScript, Bootstrap (for responsive design)
 Machine Learning: TensorFlow & Keras (CNN model for disease detection)
 Data Analysis: Python (Pandas, NumPy for data manipulation), Matplotlib & Seaborn (visualization)
+
 Development Methodology
 Design: System requirements and architecture definition.
 Data Collection: Gathering and preprocessing crop images and environmental data.
